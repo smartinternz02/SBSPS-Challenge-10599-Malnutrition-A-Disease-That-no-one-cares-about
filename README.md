@@ -1,6 +1,8 @@
 # SBSPS-Challenge-10599-Malnutrition-A-Disease-That-no-one-cares-about
 Malnutrition: A Disease That no one cares about
 
+Our goal in this project is to take a creative, unique, and simple approach to address a very heedless disease, malnutrition, leveraging IBM Cognos Analytics, while focusing on awareness and promoting data-driven decision-making
+
 Certificates:
 https://www.credly.com/badges/13d13241-4411-45b3-bd54-576e838cc116/public_url
 https://www.credly.com/badges/d66ab833-6ae6-47e7-b121-8bab526b40f4/public_url
